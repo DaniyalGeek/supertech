@@ -1,0 +1,24 @@
+{
+  "name": "SuperTechOfficeApp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^1.0.3",
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "express-fileupload": "^0.3.0",
+    "jsonwebtoken": "^7.4.3",
+    "mongoose": "^4.13.10",
+    "node-rest-client": "^3.1.0",
+    "nodemon": "^1.14.12",
+    "requestify": "^0.2.5",
+    "socket.io": "^2.0.4"
+  }
+}
